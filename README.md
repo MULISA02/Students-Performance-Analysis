@@ -1,7 +1,7 @@
 # Student Performance Analysis 
 This project focuses on using relational database design and SQL querying to track and analyze academic performance. It moves beyond simple data storage to provide actionable insights, such as identifying top-performing students and calculating subject averages across a dataset.
 
-##Core Features
+## Core Features
 Relational Schema:Designed with a normalized structure using **Primary and Foreign Keys** to link student profiles with their academic results.
  * **Performance Metrics:** SQL scripts to calculate class averages, pass rates, and subject-specific performance.
  * **Data Insights:** Queries built to filter high-achieving students (70%+) and identify top performers using ordering and limit functions.
